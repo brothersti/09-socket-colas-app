@@ -1,0 +1,1 @@
+# Se necesita crear el archivo data.json para simular la base de datos
